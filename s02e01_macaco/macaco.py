@@ -40,7 +40,7 @@ frutas[0].nome = 'Banana'
 animais = [Animal("macaco", 1, "amarela"), Animal("xiwahwah", 1, "uva")]
 zoo = Zoologico()
 zoo.alimentar(frutas, animais)
-animais[1].esperar()
+animais[1].esperar()a
 zoo.alimentar(frutas, animais)
 
 for fruta in frutas:
